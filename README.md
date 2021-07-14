@@ -7,3 +7,7 @@ Some Code chuncks  from the OpenGL tutorial on Youtube: https://youtu.be/z2yFlvk
 
 Images from the game:
 
+
+![alt text](https://github.com/zeyadahmed10/3D-Natural-Scene-Simulation/blob/main/Capture.PNG)
+![alt text](https://github.com/zeyadahmed10/3D-Natural-Scene-Simulation/blob/main/capture2.PNG)
+![alt text](https://github.com/zeyadahmed10/3D-Natural-Scene-Simulation/blob/main/capture3.PNG)
